@@ -1878,6 +1878,16 @@
 	)
 	(wire
 		(pts
+			(xy 73.66 111.76) (xy 73.66 115.57)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "83559772-3289-4e5d-8bf3-3827524a1bd7")
+	)
+	(wire
+		(pts
 			(xy 157.48 63.5) (xy 157.48 74.93)
 		)
 		(stroke
@@ -2280,10 +2290,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "148842ce-deb5-45b9-8db0-c4ede07374a5")
 		(property "Reference" "J2"
-			(at 107.315 50.8 0)
+			(at 106.934 53.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2463,6 +2472,72 @@
 		)
 	)
 	(symbol
+		(lib_id "power:GND")
+		(at 73.66 115.57 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "3007386e-d147-45b5-a851-04bd7a38975e")
+		(property "Reference" "#PWR02"
+			(at 73.66 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 73.66 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 73.66 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 73.66 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 73.66 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "9e51cb5a-8237-4af0-bb6a-f24ea87dafb4")
+		)
+		(instances
+			(project "carte_robo_pince"
+				(path "/89b969ca-cc58-4060-8a32-812d2d7c047c"
+					(reference "#PWR02")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Connector:Conn_01x18_Pin")
 		(at 85.09 76.2 0)
 		(mirror y)
@@ -2606,7 +2681,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_THT:C_Disc_D4.3mm_W1.9mm_P5.00mm"
 			(at 73.66 105.41 0)
 			(effects
 				(font
@@ -2975,7 +3050,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical"
 			(at 150.114 39.37 90)
 			(effects
 				(font
@@ -3044,7 +3119,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_THT:C_Disc_D4.3mm_W1.9mm_P5.00mm"
 			(at 66.04 105.41 0)
 			(effects
 				(font
