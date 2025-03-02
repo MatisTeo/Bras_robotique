@@ -1,0 +1,17 @@
+### Footprint positions - created on 2025-02-13T09:37:04+0100 ###
+### Printed by KiCad version 8.0.2
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val                Package                               PosX       PosY       Rot  Side
+BT1       +5V                PinHeader_1x02_P2.54mm_Vertical   108.7250  -100.0000   90.0000  top
+C1        100n               C_Disc_D4.3mm_W1.9mm_P5.00mm      115.0000  -112.1000  180.0000  top
+C2        100n               C_Disc_D4.3mm_W1.9mm_P5.00mm      115.0000  -114.7500  180.0000  top
+C4        1000u              CP_Elec_16x17.5_V2                106.1675  -126.1000    0.0000  top
+J1        Conn_01x18_Pin     PinHeader_1x18_P2.54mm_Vertical   118.0000   -73.9600    0.0000  top
+J2        Conn_01x18_Pin     PinHeader_1x18_P2.54mm_Vertical   140.8000   -74.0000    0.0000  top
+J3        Conn_01x03_Socket  PinHeader_1x03_P2.54mm_Vertical   111.2750   -77.0000  -90.0000  top
+J4        Conn_01x03_Socket  PinHeader_1x03_P2.54mm_Vertical   111.2750   -81.6500  -90.0000  top
+J5        Conn_01x03_Socket  PinHeader_1x03_P2.54mm_Vertical   111.2750   -86.3000  -90.0000  top
+J6        Conn_01x03_Socket  PinHeader_1x03_P2.54mm_Vertical   111.2750   -95.4000  -90.0000  top
+J7        Conn_01x03_Socket  PinHeader_1x03_P2.54mm_Vertical   111.2750   -90.9000  -90.0000  top
+## End

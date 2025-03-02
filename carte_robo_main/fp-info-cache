@@ -1,4 +1,4 @@
-23786019682075087
+23787759117375703
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -2985,6 +2985,13 @@ Capacitor_SMD
 CP_Elec_16x17.5
 SMD capacitor, aluminum electrolytic, Vishay 1616, 16.0x17.5mm, http://www.vishay.com/docs/28395/150crz.pdf
 capacitor electrolytic
+0
+2
+2
+Capacitor_SMD
+CP_Elec_16x17.5_V2
+
+
 0
 2
 2
