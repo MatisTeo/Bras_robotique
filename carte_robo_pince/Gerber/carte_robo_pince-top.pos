@@ -1,17 +1,29 @@
-### Footprint positions - created on 2025-02-13T09:37:04+0100 ###
+### Footprint positions - created on 2025-03-31T19:18:06+0200 ###
 ### Printed by KiCad version 8.0.2
 ## Unit = mm, Angle = deg.
 ## Side : top
-# Ref     Val                Package                               PosX       PosY       Rot  Side
-BT1       +5V                PinHeader_1x02_P2.54mm_Vertical   108.7250  -100.0000   90.0000  top
-C1        100n               C_Disc_D4.3mm_W1.9mm_P5.00mm      115.0000  -112.1000  180.0000  top
-C2        100n               C_Disc_D4.3mm_W1.9mm_P5.00mm      115.0000  -114.7500  180.0000  top
-C4        1000u              CP_Elec_16x17.5_V2                106.1675  -126.1000    0.0000  top
-J1        Conn_01x18_Pin     PinHeader_1x18_P2.54mm_Vertical   118.0000   -73.9600    0.0000  top
-J2        Conn_01x18_Pin     PinHeader_1x18_P2.54mm_Vertical   140.8000   -74.0000    0.0000  top
-J3        Conn_01x03_Socket  PinHeader_1x03_P2.54mm_Vertical   111.2750   -77.0000  -90.0000  top
-J4        Conn_01x03_Socket  PinHeader_1x03_P2.54mm_Vertical   111.2750   -81.6500  -90.0000  top
-J5        Conn_01x03_Socket  PinHeader_1x03_P2.54mm_Vertical   111.2750   -86.3000  -90.0000  top
-J6        Conn_01x03_Socket  PinHeader_1x03_P2.54mm_Vertical   111.2750   -95.4000  -90.0000  top
-J7        Conn_01x03_Socket  PinHeader_1x03_P2.54mm_Vertical   111.2750   -90.9000  -90.0000  top
+# Ref     Val                Package                                                 PosX       PosY       Rot  Side
+BT1       +8V                PinHeader_1x02_P2.54mm_Vertical                      88.3650  -118.0700   90.0000  top
+C1        100n               C_Disc_D4.3mm_W1.9mm_P5.00mm                        115.0000  -112.1000  180.0000  top
+C2        100n               C_Disc_D4.3mm_W1.9mm_P5.00mm                        115.0000  -114.7500  180.0000  top
+C3        0.33pF             C_Disc_D3.0mm_W1.6mm_P2.50mm                         97.0500  -103.3250  -90.0000  top
+C4        1000u              CP_Radial_D12.5mm_P5.00mm                           101.3750  -115.9240   90.0000  top
+C5        0.1uF              C_Disc_D3.0mm_W1.6mm_P2.50mm                        102.1250  -103.3500  180.0000  top
+C6        10u                C_Disc_D3.0mm_W1.6mm_P2.50mm                         90.5400   -87.0800    0.0000  top
+C7        0.1u               C_Disc_D3.0mm_W1.6mm_P2.50mm                         90.5500   -84.7900    0.0000  top
+D1        LED                LED_D3.0mm                                           97.5100   -76.2750    0.0000  top
+J1        Conn_01x18_Pin     PinHeader_1x18_P2.54mm_Vertical                     118.0000   -73.9600    0.0000  top
+J2        Conn_01x18_Pin     PinHeader_1x18_P2.54mm_Vertical                     140.8000   -74.0000    0.0000  top
+J3        Conn_01x03_Socket  PinHeader_1x03_P2.54mm_Vertical                     113.1250   -76.3250  -90.0000  top
+J4        Conn_01x03_Socket  PinHeader_1x03_P2.54mm_Vertical                     113.1250   -81.3750  -90.0000  top
+J5        Conn_01x03_Socket  PinHeader_1x03_P2.54mm_Vertical                     113.1500   -86.2500  -90.0000  top
+J6        Conn_01x03_Socket  PinHeader_1x03_P2.54mm_Vertical                     113.1500   -90.8750  -90.0000  top
+J7        Conn_01x03_Socket  PinHeader_1x03_P2.54mm_Vertical                     113.1500   -95.5750  -90.0000  top
+R1        330                R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal   100.4300   -72.2800    0.0000  top
+R2        0.01               R_2512_6332Metric                                    86.8800   -90.2300  180.0000  top
+R3        3.3k               R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal    90.6700   -72.1800  -90.0000  top
+R4        3.3k               R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal    87.5000   -72.1800  -90.0000  top
+SW1       SW_DIP_x01         SW_slide-03_P5_THT                                   88.4500  -106.9700   90.0000  top
+U1        KA78M05_TO252      TO-220-3_Horizontal_TabDown                          97.0850  -100.7100    0.0000  top
+U2        INA219AxDCN        SOT-23-8                                             87.5650   -85.8325   90.0000  top
 ## End

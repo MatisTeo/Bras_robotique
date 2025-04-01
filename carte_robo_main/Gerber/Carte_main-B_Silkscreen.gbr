@@ -2,7 +2,8 @@
 %TF.CreationDate,2025-03-31T19:16:32+02:00*%
 %TF.ProjectId,Carte_main,43617274-655f-46d6-9169-6e2e6b696361,rev?*%
 %TF.SameCoordinates,Original*%
-%TF.FileFunction,AssemblyDrawing,Bot*%
+%TF.FileFunction,Legend,Bot*%
+%TF.FilePolarity,Positive*%
 %FSLAX46Y46*%
 G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
 G04 Created by KiCad (PCBNEW 8.0.2) date 2025-03-31 19:16:32*

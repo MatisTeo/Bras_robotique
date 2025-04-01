@@ -1,21 +1,19 @@
-### Footprint positions - created on 2025-02-13T09:10:12+0100 ###
+### Footprint positions - created on 2025-03-31T19:16:54+0200 ###
 ### Printed by KiCad version 8.0.2
 ## Unit = mm, Angle = deg.
 ## Side : top
 # Ref     Val                Package                                                 PosX       PosY       Rot  Side
-C1        10n                C_Disc_D4.3mm_W1.9mm_P5.00mm                        130.6500  -111.2250  180.0000  top
-C2        10n                C_Disc_D4.3mm_W1.9mm_P5.00mm                        130.6500   -95.7250  180.0000  top
-C3        10n                C_Disc_D4.3mm_W1.9mm_P5.00mm                        130.6500  -101.3250  180.0000  top
+BT1       Battery_Cell       PinHeader_1x02_P2.54mm_Vertical                     129.2860  -122.4280  -90.0000  top
 C4        100n               C_Disc_D4.3mm_W1.9mm_P5.00mm                        130.6500  -119.3250  180.0000  top
 C5        100n               C_Disc_D4.3mm_W1.9mm_P5.00mm                        130.6500  -116.8250  180.0000  top
+D1        LED                LED_D3.0mm                                          120.5100  -119.7400   90.0000  top
 J1        Conn_01x18_Pin     PinHeader_1x18_P2.54mm_Vertical                     133.6000   -78.7450    0.0000  top
 J2        Conn_01x18_Pin     PinHeader_1x18_P2.54mm_Vertical                     156.4000   -78.7450    0.0000  top
-J3        Conn_01x02_Socket  PinHeader_1x02_P2.54mm_Vertical                     124.6250   -90.4000  180.0000  top
-J4        Conn_01x05_Socket  PinSocket_1x05_P2.54mm_Vertical                     129.1500   -80.3050    0.0000  top
-R1        100k               R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal   130.6300  -107.2250  180.0000  top
-R2        1M                 R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal   120.4900  -104.1250    0.0000  top
-R3        1M                 R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal   120.4700   -98.5250    0.0000  top
-R4        1M                 R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal   120.4900  -114.0250    0.0000  top
+J3        Conn_01x02_Socket  PinHeader_1x02_P2.54mm_Vertical                     118.6130   -87.3760   90.0000  top
+J4        Conn_01x08_Socket  PinHeader_1x08_P2.54mm_Vertical                     129.0320   -86.6140    0.0000  top
+R1        100k               R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal   130.6550  -107.7250  180.0000  top
+R2        190                R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal   130.6500  -113.7920  180.0000  top
 R5        100k               R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal   123.1450   -74.1250    0.0000  top
 SW1       SW_Push            SW_PUSH_6mm_H5mm                                    118.3250   -83.8250   90.0000  top
+SW2       SW_DIP_x01         SW_slide-03_P5_THT                                  121.6250   -98.0500   90.0000  top
 ## End
