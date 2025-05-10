@@ -46,4 +46,4 @@ L'objectif est de démontrer une alternative simple et économique pour la tél�
 
 ## 📎 Liens utiles
 - [🔗 Dépôt GitHub](https://github.com/MatisTeo/Bras_robotique)
-- [📄 Mémoire complet (PDF)](./Memoire_Baillot_Jaquet.pdf)
+- [📄 Mémoire complet (PDF)](./Divers/Memoire_Baillot_Jaquet.pdf)
